@@ -116,7 +116,7 @@ fn main() {
         let country_code = country_code.trim();
 
         // Get your API key from OpenWeatherMap
-        let api_key = "236cf4284627757b67e109b5886e9ca0"; 
+        let api_key = ""; 
 
         // Calling the function to fetch weather information
         match get_weather_info(&city, &country_code, api_key) {
