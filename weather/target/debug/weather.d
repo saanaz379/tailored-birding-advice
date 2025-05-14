@@ -1,0 +1,1 @@
+/Users/saarahnazar/Library/Mobile\ Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/weather: /Users/saarahnazar/Library/Mobile\ Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/src/main.rs

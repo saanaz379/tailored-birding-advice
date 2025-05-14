@@ -1,0 +1,10 @@
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/libautocfg-87e162dfeffeff4a.rmeta: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/libautocfg-87e162dfeffeff4a.rlib: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/autocfg-87e162dfeffeff4a.d: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs
+
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/lib.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/error.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/rustc.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.4.0/src/version.rs:

@@ -1,0 +1,8 @@
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/libsnafu_derive-a962438bc815734c.dylib: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/parse.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/shared.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/report.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/snafu_derive-a962438bc815734c.d: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/parse.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/shared.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/report.rs
+
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/lib.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/parse.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/shared.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/snafu-derive-0.8.5/src/report.rs:

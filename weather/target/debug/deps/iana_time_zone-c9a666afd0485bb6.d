@@ -1,0 +1,9 @@
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/libiana_time_zone-c9a666afd0485bb6.rmeta: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_darwin.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/libiana_time_zone-c9a666afd0485bb6.rlib: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_darwin.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/iana_time_zone-c9a666afd0485bb6.d: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_darwin.rs
+
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/lib.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/ffi_utils.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/iana-time-zone-0.1.63/src/tz_darwin.rs:

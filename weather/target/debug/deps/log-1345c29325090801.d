@@ -1,0 +1,10 @@
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/liblog-1345c29325090801.rmeta: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/liblog-1345c29325090801.rlib: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/saarahnazar/Library/Mobile Documents/com~apple~CloudDocs/projects/learning_rust/tailored-birding-advice/weather/target/debug/deps/log-1345c29325090801.d: /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/Users/saarahnazar/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:
