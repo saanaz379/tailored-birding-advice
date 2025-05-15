@@ -83,6 +83,20 @@ fn get_temperature_emoji(temperature: f64) -> &'static str {
         "🔥"
     }
 }
+fn get_seasonal_advice(local_time: DateTime<Local>) -> &'static str {
+    if local_time.month() == 5 {
+        "Congratulations, it's May, the best month for birding! To further enhance your chances, it is preferrable to get started as close to dawn as possible."
+    } else if local_time.month() <= 2 || local_time.month() == 12 {
+        "Happy weird duck season! It would be best to get outside at sometime between midday and sunset, since the air takes a few hours to heat up from the sunlight. This is the ideal time to hone in on your bird-listening skills. Birdsong tends to carry through winter air more efficiently than summer air, and more owls tend to call during the winter. If the weather isn't preferrable, it is the season to put feeders out and birdwatch from the comfort of a heated room. If you decide to brave the weather, keep in mind that birds are less deterred by temperature than they are from food scarcity. Therefore, they will most likely be found near food sources, such as conifer stands, open water, edges of fields etc, as well as in mixed species flocks. It is also generally easier to spot birds in deciduous trees and in the snow during this season."
+    } else if local_time.month() <= 6 {
+        "It is preferrable to get started as close to dawn as possible. Enjoy the wonderful weather as your fine-feathered friends definitely are enjoying it too!"
+    } else if local_time.month() <= 9 {
+        "Summer is a wonderful time to go birdwatching. There is a higher likelihood of spotting more varieties of songbirds than you are used to seeing. To avoid peak summer heat and maximize the amount of bird species you may see, try getting outside earlier in the morning."
+    } else {
+        "Midday is the best time to spot birds out in the fall. It is also likely that you may spot out-of-the-ordinary species during the fall migration season. It is easier to hear birds further away, but keep in mind that recognizing them when you spot them may be complicated by duller colored non-breeding plumage. If applicable, wear a reflective vest as it may be hunting season where you live."
+    }
+}
+
 fn main() {
     println!("{}", "Welcome to your personal ornithologist! You will get advice tailored to your current weather and time of year to spot the most birds on your next expedition.".bright_yellow());
 
@@ -106,7 +120,7 @@ fn main() {
 
     let local: DateTime<Local> = Local::now(); // e.g. `2014-11-28 21:45:59.324310806 -09:00`
 
-    println!("Current time: {}", local);
+    println!("{}", get_seasonal_advice(local));
 
     if api_key != "no" {
         // Calling the function to fetch weather information
@@ -120,6 +134,6 @@ fn main() {
         }
     }
 
-    println!("{}", "Thank you for consulting with us! May the force be with you on your upcoming birdwatching expedition!!".bright_blue());
+    println!("{}", "Thank you for consulting with me! May the force be with you on your upcoming birdwatching expedition!!".bright_blue());
 
 }
